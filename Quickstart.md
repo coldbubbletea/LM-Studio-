@@ -10,9 +10,9 @@
 你可以输入一些你希望测试的大模型集合来测试它们
 
 ### 开启服务
-![Edit live](img/2.png)
+![Edit live](img/2.PNG)
 加载你刚刚下载好的模型
-![Edit live](img/3.png)
+![Edit live](img/3.PNG)
 开启服务并且输入一些prompt(可空白)
 
 ### 代码LM Studio
